@@ -1,4 +1,10 @@
-# Spring core patterns(springcore package)
+# Design Patters implemented in Java
+
+### Singleton
+
+- [Medium] [Singleton Pattern with Spring Boot](https://medium.com/@halilugur/singleton-pattern-with-spring-boot-175287ed504c)
+
+### Spring core patterns(springcore package)
 
     - Inversion of Control and Dependency Injection in Spring
     - Constructor, Setter and Field injection
